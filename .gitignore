@@ -1,0 +1,12 @@
+*.swp
+.DS_Store
+*.pdf
+.idea
+*.obj
+*.o
+*.d
+.vscode
+minishell.dSYM
+theory
+test.txt
+errors
