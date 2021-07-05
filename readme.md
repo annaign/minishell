@@ -32,4 +32,4 @@ A simple shell.
 * [Функция signal для обработки сигналов](https://man7.org/linux/man-pages/man2/signal.2.html)
 
 ## Authors
-*[pshagwel](https://github.com/annaign) + rmanfred
+[pshagwel](https://github.com/annaign) + rmanfred
